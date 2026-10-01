@@ -17,10 +17,11 @@ Currently in development
 Initialized for CS4622 (Computer Networks) at Kennesaw State University.
 
 Team:
-Mere-Solace
-Aveon
-cjusino13
-EvanMc1
-KaiJGlaza
-maitrip7
-NanoFerreira
+
+`Mere-Solace` -
+`Aveon` -
+`cjusino13` -
+`EvanMc1` -
+`KaiJGlaza` -
+`maitrip7` -
+`NanoFerreira`
